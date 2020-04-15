@@ -8,7 +8,7 @@ cd vnAer
 ```
 
 vào file src/app.ts: 
-chỉnh sửa lại url bài viết muốn tằng like và view: 
+chỉnh sửa lại url bài viết muốn tăng like và view: 
 
 ```javascript
 // url bài viết 
