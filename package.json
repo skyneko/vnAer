@@ -1,0 +1,17 @@
+{
+  "name": "vnaer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -p .",
+    "start": "node dist/app.js",
+    "dev": "ts-node src/app.ts"
+  },
+  "dependencies": {
+    "@types/request": "^2.48.4",
+    "request": "^2.88.2",
+    "typescript": "^3.8.3"
+  },
+  "author": "yui421"
+}
